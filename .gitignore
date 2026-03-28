@@ -43,6 +43,9 @@ yarn-error.log
 # Bundle artifact
 *.jsbundle
 
+# Build output
+lib/
+
 # Ruby / CocoaPods
 **/Pods/
 /vendor/bundle/
