@@ -1,6 +1,7 @@
-export { default as BlurMesh, BlurMesh as BlurredBackground } from './BlurMesh';
+export {default as BlurMesh, BlurMesh as BlurredBackground} from './BlurMesh';
 export type {
-  BlurMeshProps,
-  ShapeItem,
-  BlurredShapeType,
+    BlurMeshProps,
+    ShapeItem,
+    BlurredShapeType,
+    Animatable,
 } from './types';
