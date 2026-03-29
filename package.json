@@ -1,6 +1,6 @@
 {
   "name": "react-native-skia-blur-mesh",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Blurred color mesh backgrounds for React Native — soft gradient effects with colored shapes and Gaussian blur. Powered by @shopify/react-native-skia.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
