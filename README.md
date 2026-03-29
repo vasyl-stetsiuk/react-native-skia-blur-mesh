@@ -204,4 +204,4 @@ zero React re-renders during animation.
 
 ## License
 
-MIT © [Vasyl Stetsiuk](https://stetsiuk.dev)
+MIT © [Vasyl Stetsiuk](https://github.com/vasyl-stetsiuk)
