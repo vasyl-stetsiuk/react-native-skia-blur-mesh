@@ -5,6 +5,9 @@ animatable at 60fps on the UI thread.
 
 Powered by [`@shopify/react-native-skia`](https://shopify.github.io/react-native-skia/).
 
+## Preview
+![Shadow Preview](media/preview.gif)
+
 ## Features
 
 - **Soft gradients** — overlapping blurred shapes create organic mesh-gradient effects
